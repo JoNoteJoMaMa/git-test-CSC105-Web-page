@@ -1,9 +1,25 @@
 .title1 {
+    background-color: rgb(165, 20, 20);
     margin-top: 1em;
 }
 
 .title1 h1 {
+    display: inline-flex;
     padding-top: 10px;
+}
+
+audio {
+    margin-top: 15px;
+    display: inline;
+    float: right;
+}
+
+.nav-link {
+    color: rgb(104, 18, 175);
+}
+
+.nav-link :active {
+    color: rgb(255, 0, 0);
 }
 
 .head {
@@ -49,4 +65,8 @@
     display: flex;
     justify-content: center;
     padding-top: 20px;
+}
+
+a :hover {
+    background-color: rgb(25, 0, 255)
 }
