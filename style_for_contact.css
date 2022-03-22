@@ -1,0 +1,39 @@
+.title1 {
+    margin-top: 1em;
+}
+
+.title1 h1 {
+    padding-top: 10px;
+}
+
+.head {
+    display: flex;
+    justify-content: center;
+    margin-top: 1em;
+}
+
+.contact_list_head {
+    margin-left: 1em;
+}
+
+.bottom1 {
+    margin-top: 4em;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://cdn.thewirecutter.com/wp-content/uploads/2019/03/pizzastone-2x1-3388.jpg?auto=webp&quality=75&crop=2:1&width=1024);
+    background-size: cover;
+    height: 400px;
+}
+
+.bottom1 h1 {
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
+
+.bottom1 a {
+    font-size: 50px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
