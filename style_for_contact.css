@@ -33,17 +33,16 @@ audio {
 }
 
 .bottom1 {
-    margin-top: 4em;
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://cdn.thewirecutter.com/wp-content/uploads/2019/03/pizzastone-2x1-3388.jpg?auto=webp&quality=75&crop=2:1&width=1024);
     background-size: cover;
-    height: 400px;
+    height: 200px;
 }
 
 .bottom1 h1 {
     color: white;
     display: flex;
     justify-content: center;
-    padding-top: 100px;
+    padding-top: 20px;
 }
 
 .bottom1 a {
